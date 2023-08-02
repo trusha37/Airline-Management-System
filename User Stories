@@ -1,0 +1,124 @@
+Users Stories:
+Admin:
+1. As an admin, I want to be able to manage user access levels and permissions so that I can
+ensure that only authorized users have access to sensitive data and functionality.
+2. As an admin, I want to be able to configure system settings, such as time zones and
+currency options, so that the system operates according to the needs of the airport.
+3. As an admin, I want to be able to manage third-party integrations and APIs so that the
+system can communicate with other systems and services, such as airline reservation
+systems and customs databases.
+4. As an admin, I want to be able to view real-time data on flights and passengers, so that I
+can ensure smooth operations and quickly respond to any issues.
+5. As an admin, I want to be able to add, modify, and delete information about airlines,
+flights, and passengers, so that I can keep the system up-to-date and accurate.
+6. As an admin, I want to be able to communicate with airlines and other stakeholders, so
+that I can coordinate efforts and address any issues that arise.
+7. As an admin, I want to be able to ensure the security of the system and protect sensitive
+information, so that I can prevent unauthorized access and maintain data integrity.
+
+Operational managers:
+
+1. As an operational manager of the airport management system, I want to be able
+to communicate with airport staff, airlines, and other stakeholders, so that I can
+coordinate efforts and address any issues that arise.
+2. As an operational manager of the airport management system, I want to be able
+to ensure that the system is easy to use and understand, so that staff can quickly
+learn how to use it and perform their duties efficiently.
+
+HR manager
+
+1. As an HR manager, I want to be able to review resumes and applications, and
+communicate with candidates through the system, so that I can efficiently
+manage the hiring process and keep candidates informed.
+2. As an HR manager, I want to be able to communicate with employees through
+the system, so that I can quickly and efficiently distribute important information
+and announcements.
+Food Service manager
+
+1. As a food service manager, I want to be able to view and manage inventory
+levels, so that I can ensure that we always have enough supplies on hand to meet
+customer demand.
+2. As a food service manager, I want to be able to track and manage food safety and
+sanitation standards, so that I can ensure that we are following all applicable
+regulations and keeping customers safe.
+3. As a food service manager, I want to be able to manage customer feedback and
+reviews, so that I can identify areas for improvement and respond to customer
+concerns.
+Finance manager
+
+1. As a finance manager, I want to be able to manage payroll and employee
+compensation, so that I can ensure that all employees are properly compensated.
+2. As a finance manager, I want to be able to manage budgets and forecasts, so that
+I can ensure that we are operating within our financial means and that we have a
+clear picture of future financial performance.
+3. As a finance manager, I want to be able to manage tax compliance and reporting,
+so that we can comply with tax laws and regulations.
+
+Staff:
+Captain
+1. As a captain, I want to be able to receive real-time updates on weather conditions and airport
+traffic, so that I can plan my flight accordingly and ensure a safe and efficient journey for my
+passengers.
+
+2. As a captain, I want to be able to access detailed information about airport facilities and services,
+so that I can ensure that my crew and passengers have a comfortable and stress-free travel
+experience.
+3. As a captain, I want to be able to easily report any safety or security concerns, so that airport
+authorities can take appropriate action to mitigate risks and ensure a safe and secure airport
+environment.
+4. As a captain, I want to be able to access up-to-date information about runway conditions, air
+traffic congestion, and other factors that may impact my flight, so that I can make informed
+decisions about route planning and other aspects of my journey.
+Cabin crew
+1. As a cabin crew member, I want to be able to easily access passenger manifest and flight details,
+so that I can prepare for the flight and provide a seamless and enjoyable experience for
+passengers.
+2. As a cabin crew member, I want to be able to easily access information about airport facilities and
+services, so that I can provide passengers with accurate and helpful information about their travel
+experience.
+3. As a cabin crew member, I want to be able to easily communicate with passengers and provide
+them with a high level of customer service, so that they have a positive experience.
+4. As a cabin crew member, I want to be able to easily access passenger data and preferences, so that
+I can provide personalized service to passengers and enhance their travel experience.
+Check in manager
+1. As a check-in manager, I want to be able to easily access flight information and
+passenger data, so that I can efficiently manage check-in operations and ensure a smooth
+travel experience for passengers.
+2. As a check-in manager, I want to be able to easily manage passenger information, such as
+passport and visa details, so that I can ensure that passengers meet all necessary travel
+requirements and comply with regulations.
+3. As a check-in manager, I want to be able to easily manage and track baggage handling, so
+that luggage is properly checked in and routed to the correct destination.
+
+Cargo agent:
+1. As a cargo agent, I want to be able to create and manage cargo bookings for airlines, so that I can
+efficiently manage the movement of cargo through the airport.
+
+2. As a cargo agent, I want to be able to track the status of cargo shipments, so that I can provide
+accurate information to airlines.
+3. As a cargo agent, I want to be able to generate and print cargo documentation, such as air
+waybills and shipping labels, so that I can ensure that cargo is properly identified and labeled.
+4. As a cargo agent, I want to be able to communicate with airline representatives and freight
+forwarders, so that I can coordinate the movement of cargo efficiently and effectively.
+5. As a cargo agent, I want to be able to monitor the movement of cargo within the airport, so that I
+can identify and resolve any issues or delays.
+Passenger:
+1. As an airline passenger, I want to be able to sign in, login and logout using necessary
+credentials and verification so that I can remotely access my bookings and availability.
+2. As an airline passenger, I want to view my flight status and receive notifications about
+any changes or delays so that I can plan my travel accordingly.
+(AC: including the departure and arrival times, number of passengers traveling, gate
+numbers, and baggage allowance)
+3. As an airline passenger, I want to check-in online, choose my preferred seats and be able
+to track my baggage and receive alerts if it gets lost or delayed, so that I don’t have to
+wait in lines.
+4. As an airline passenger, I want to be able to easily book my flights online and have
+access to all the necessary information about my flight.
+(AC: including the departure and arrival times, number of passengers traveling, see all
+available flights, with the option to filter results by price, departure time, and airline. )
+5. As an airline passenger, I want to be able to book a flight, select my seats and add
+additional services to my reservation, be able to easily view my itinerary and make
+changes or cancellations if necessary.
+(AC: such as checked baggage or in-flight meals)
+6. As an airline passenger, I want to be able to book and track my cargo and get its
+estimated amount so that I can port it easily.
